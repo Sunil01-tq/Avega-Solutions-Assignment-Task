@@ -12,7 +12,7 @@ The test cases cover:
 - Negative scenarios (invalid credentials)
 - Boundary value Analysis for OrangeHRM salary submoduleslate
 - Positive and Negative scenarios for Firefly III Transactions page 
-- Field validations (empty input, incorrect format)
+- Field validations 
 
  Test Case Details
 Each test case includes:
